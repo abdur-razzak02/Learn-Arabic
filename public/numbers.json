@@ -1,0 +1,602 @@
+[
+    {
+      "id": 1,
+      "number": "١",
+      "number_in_english": "1",
+      "pronunciation": "Wahid"
+    },
+    {
+      "id": 2,
+      "number": "٢",
+      "number_in_english": "2",
+      "pronunciation": "Ithnayn"
+    },
+    {
+      "id": 3,
+      "number": "٣",
+      "number_in_english": "3",
+      "pronunciation": "Thalatha"
+    },
+    {
+      "id": 4,
+      "number": "٤",
+      "number_in_english": "4",
+      "pronunciation": "Arba'a"
+    },
+    {
+      "id": 5,
+      "number": "٥",
+      "number_in_english": "5",
+      "pronunciation": "Khamsa"
+    },
+    {
+      "id": 6,
+      "number": "٦",
+      "number_in_english": "6",
+      "pronunciation": "Sitta"
+    },
+    {
+      "id": 7,
+      "number": "٧",
+      "number_in_english": "7",
+      "pronunciation": "Sab'a"
+    },
+    {
+      "id": 8,
+      "number": "٨",
+      "number_in_english": "8",
+      "pronunciation": "Thamaniya"
+    },
+    {
+      "id": 9,
+      "number": "٩",
+      "number_in_english": "9",
+      "pronunciation": "Tis'a"
+    },
+    {
+      "id": 10,
+      "number": "١٠",
+      "number_in_english": "10",
+      "pronunciation": "Ashara"
+    },
+    {
+      "id": 11,
+      "number": "١١",
+      "number_in_english": "11",
+      "pronunciation": "Ahada 'Ashar"
+    },
+    {
+      "id": 12,
+      "number": "١٢",
+      "number_in_english": "12",
+      "pronunciation": "Ithna 'Ashar"
+    },
+    {
+      "id": 13,
+      "number": "١٣",
+      "number_in_english": "13",
+      "pronunciation": "Thalatha 'Ashar"
+    },
+    {
+      "id": 14,
+      "number": "١٤",
+      "number_in_english": "14",
+      "pronunciation": "Arba'a 'Ashar"
+    },
+    {
+      "id": 15,
+      "number": "١٥",
+      "number_in_english": "15",
+      "pronunciation": "Khamsa 'Ashar"
+    },
+    {
+      "id": 16,
+      "number": "١٦",
+      "number_in_english": "16",
+      "pronunciation": "Sitta 'Ashar"
+    },
+    {
+      "id": 17,
+      "number": "١٧",
+      "number_in_english": "17",
+      "pronunciation": "Sab'a 'Ashar"
+    },
+    {
+      "id": 18,
+      "number": "١٨",
+      "number_in_english": "18",
+      "pronunciation": "Thamaniya 'Ashar"
+    },
+    {
+      "id": 19,
+      "number": "١٩",
+      "number_in_english": "19",
+      "pronunciation": "Tis'a 'Ashar"
+    },
+    {
+      "id": 20,
+      "number": "٢٠",
+      "number_in_english": "20",
+      "pronunciation": "Ishrun"
+    },
+    {
+      "id": 21,
+      "number": "٢١",
+      "number_in_english": "21",
+      "pronunciation": "Wahid wa Ishrun"
+    },
+    {
+      "id": 22,
+      "number": "٢٢",
+      "number_in_english": "22",
+      "pronunciation": "Ithnayn wa Ishrun"
+    },
+    {
+      "id": 23,
+      "number": "٢٣",
+      "number_in_english": "23",
+      "pronunciation": "Thalatha wa Ishrun"
+    },
+    {
+      "id": 24,
+      "number": "٢٤",
+      "number_in_english": "24",
+      "pronunciation": "Arba'a wa Ishrun"
+    },
+    {
+      "id": 25,
+      "number": "٢٥",
+      "number_in_english": "25",
+      "pronunciation": "Khamsa wa Ishrun"
+    },
+    {
+      "id": 26,
+      "number": "٢٦",
+      "number_in_english": "26",
+      "pronunciation": "Sitta wa Ishrun"
+    },
+    {
+      "id": 27,
+      "number": "٢٧",
+      "number_in_english": "27",
+      "pronunciation": "Sab'a wa Ishrun"
+    },
+    {
+      "id": 28,
+      "number": "٢٨",
+      "number_in_english": "28",
+      "pronunciation": "Thamaniya wa Ishrun"
+    },
+    {
+      "id": 29,
+      "number": "٢٩",
+      "number_in_english": "29",
+      "pronunciation": "Tis'a wa Ishrun"
+    },
+    {
+      "id": 30,
+      "number": "٣٠",
+      "number_in_english": "30",
+      "pronunciation": "Thalathun"
+    },
+    {
+      "id": 31,
+      "number": "٣١",
+      "number_in_english": "31",
+      "pronunciation": "Wahid wa Thalathun"
+    },
+    {
+      "id": 32,
+      "number": "٣٢",
+      "number_in_english": "32",
+      "pronunciation": "Ithnayn wa Thalathun"
+    },
+    {
+      "id": 33,
+      "number": "٣٣",
+      "number_in_english": "33",
+      "pronunciation": "Thalatha wa Thalathun"
+    },
+    {
+      "id": 34,
+      "number": "٣٤",
+      "number_in_english": "34",
+      "pronunciation": "Arba'a wa Thalathun"
+    },
+    {
+      "id": 35,
+      "number": "٣٥",
+      "number_in_english": "35",
+      "pronunciation": "Khamsa wa Thalathun"
+    },
+    {
+      "id": 36,
+      "number": "٣٦",
+      "number_in_english": "36",
+      "pronunciation": "Sitta wa Thalathun"
+    },
+    {
+      "id": 37,
+      "number": "٣٧",
+      "number_in_english": "37",
+      "pronunciation": "Sab'a wa Thalathun"
+    },
+    {
+      "id": 38,
+      "number": "٣٨",
+      "number_in_english": "38",
+      "pronunciation": "Thamaniya wa Thalathun"
+    },
+    {
+      "id": 39,
+      "number": "٣٩",
+      "number_in_english": "39",
+      "pronunciation": "Tis'a wa Thalathun"
+    },
+    {
+      "id": 40,
+      "number": "٤٠",
+      "number_in_english": "40",
+      "pronunciation": "Arba'un"
+    },
+    {
+      "id": 41,
+      "number": "٤١",
+      "number_in_english": "41",
+      "pronunciation": "Wahid wa Arba'un"
+    },
+    {
+      "id": 42,
+      "number": "٤٢",
+      "number_in_english": "42",
+      "pronunciation": "Ithnayn wa Arba'un"
+    },
+    {
+      "id": 43,
+      "number": "٤٣",
+      "number_in_english": "43",
+      "pronunciation": "Thalatha wa Arba'un"
+    },
+    {
+      "id": 44,
+      "number": "٤٤",
+      "number_in_english": "44",
+      "pronunciation": "Arba'a wa Arba'un"
+    },
+    {
+      "id": 45,
+      "number": "٤٥",
+      "number_in_english": "45",
+      "pronunciation": "Khamsa wa Arba'un"
+    },
+    {
+      "id": 46,
+      "number": "٤٦",
+      "number_in_english": "46",
+      "pronunciation": "Sitta wa Arba'un"
+    },
+    {
+      "id": 47,
+      "number": "٤٧",
+      "number_in_english": "47",
+      "pronunciation": "Sab'a wa Arba'un"
+    },
+    {
+      "id": 48,
+      "number": "٤٨",
+      "number_in_english": "48",
+      "pronunciation": "Thamaniya wa Arba'un"
+    },
+    {
+      "id": 49,
+      "number": "٤٩",
+      "number_in_english": "49",
+      "pronunciation": "Tis'a wa Arba'un"
+    },
+    {
+      "id": 50,
+      "number": "٥٠",
+      "number_in_english": "50",
+      "pronunciation": "Khamsun"
+    },
+    {
+      "id": 51,
+      "number": "٥١",
+      "number_in_english": "51",
+      "pronunciation": "Wahid wa Khamsun"
+    },
+    {
+      "id": 52,
+      "number": "٥٢",
+      "number_in_english": "52",
+      "pronunciation": "Ithnayn wa Khamsun"
+    },
+    {
+      "id": 53,
+      "number": "٥٣",
+      "number_in_english": "53",
+      "pronunciation": "Thalatha wa Khamsun"
+    },
+    {
+      "id": 54,
+      "number": "٥٤",
+      "number_in_english": "54",
+      "pronunciation": "Arba'a wa Khamsun"
+    },
+    {
+      "id": 55,
+      "number": "٥٥",
+      "number_in_english": "55",
+      "pronunciation": "Khamsa wa Khamsun"
+    },
+    {
+      "id": 56,
+      "number": "٥٦",
+      "number_in_english": "56",
+      "pronunciation": "Sitta wa Khamsun"
+    },
+    {
+      "id": 57,
+      "number": "٥٧",
+      "number_in_english": "57",
+      "pronunciation": "Sab'a wa Khamsun"
+    },
+    {
+      "id": 58,
+      "number": "٥٨",
+      "number_in_english": "58",
+      "pronunciation": "Thamaniya wa Khamsun"
+    },
+    {
+      "id": 59,
+      "number": "٥٩",
+      "number_in_english": "59",
+      "pronunciation": "Tis'a wa Khamsun"
+    },
+    {
+      "id": 60,
+      "number": "٦٠",
+      "number_in_english": "60",
+      "pronunciation": "Sittun"
+    },
+    {
+      "id": 61,
+      "number": "٦١",
+      "number_in_english": "61",
+      "pronunciation": "Wahid wa Sittun"
+    },
+    {
+      "id": 62,
+      "number": "٦٢",
+      "number_in_english": "62",
+      "pronunciation": "Ithnayn wa Sittun"
+    },
+    {
+      "id": 63,
+      "number": "٦٣",
+      "number_in_english": "63",
+      "pronunciation": "Thalatha wa Sittun"
+    },
+    {
+      "id": 64,
+      "number": "٦٤",
+      "number_in_english": "64",
+      "pronunciation": "Arba'a wa Sittun"
+    },
+    {
+      "id": 65,
+      "number": "٦٥",
+      "number_in_english": "65",
+      "pronunciation": "Khamsa wa Sittun"
+    },
+    {
+      "id": 66,
+      "number": "٦٦",
+      "number_in_english": "66",
+      "pronunciation": "Sitta wa Sittun"
+    },
+    {
+      "id": 67,
+      "number": "٦٧",
+      "number_in_english": "67",
+      "pronunciation": "Sab'a wa Sittun"
+    },
+    {
+      "id": 68,
+      "number": "٦٨",
+      "number_in_english": "68",
+      "pronunciation": "Thamaniya wa Sittun"
+    },
+    {
+      "id": 69,
+      "number": "٦٩",
+      "number_in_english": "69",
+      "pronunciation": "Tis'a wa Sittun"
+    },
+    {
+      "id": 70,
+      "number": "٧٠",
+      "number_in_english": "70",
+      "pronunciation": "Sab'un"
+    },
+    {
+      "id": 71,
+      "number": "٧١",
+      "number_in_english": "71",
+      "pronunciation": "Wahid wa Sab'un"
+    },
+    {
+      "id": 72,
+      "number": "٧٢",
+      "number_in_english": "72",
+      "pronunciation": "Ithnayn wa Sab'un"
+    },
+    {
+      "id": 73,
+      "number": "٧٣",
+      "number_in_english": "73",
+      "pronunciation": "Thalatha wa Sab'un"
+    },
+    {
+      "id": 74,
+      "number": "٧٤",
+      "number_in_english": "74",
+      "pronunciation": "Arba'a wa Sab'un"
+    },
+    {
+      "id": 75,
+      "number": "٧٥",
+      "number_in_english": "75",
+      "pronunciation": "Khamsa wa Sab'un"
+    },
+    {
+      "id": 76,
+      "number": "٧٦",
+      "number_in_english": "76",
+      "pronunciation": "Sitta wa Sab'un"
+    },
+    {
+      "id": 77,
+      "number": "٧٧",
+      "number_in_english": "77",
+      "pronunciation": "Sab'a wa Sab'un"
+    },
+    {
+      "id": 78,
+      "number": "٧٨",
+      "number_in_english": "78",
+      "pronunciation": "Thamaniya wa Sab'un"
+    },
+    {
+      "id": 79,
+      "number": "٧٩",
+      "number_in_english": "79",
+      "pronunciation": "Tis'a wa Sab'un"
+    },
+    {
+      "id": 80,
+      "number": "٨٠",
+      "number_in_english": "80",
+      "pronunciation": "Thamanun"
+    },
+    {
+      "id": 81,
+      "number": "٨١",
+      "number_in_english": "81",
+      "pronunciation": "Wahid wa Thamanun"
+    },
+    {
+      "id": 82,
+      "number": "٨٢",
+      "number_in_english": "82",
+      "pronunciation": "Ithnayn wa Thamanun"
+    },
+    {
+      "id": 83,
+      "number": "٨٣",
+      "number_in_english": "83",
+      "pronunciation": "Thalatha wa Thamanun"
+    },
+    {
+      "id": 84,
+      "number": "٨٤",
+      "number_in_english": "84",
+      "pronunciation": "Arba'a wa Thamanun"
+    },
+    {
+      "id": 85,
+      "number": "٨٥",
+      "number_in_english": "85",
+      "pronunciation": "Khamsa wa Thamanun"
+    },
+    {
+      "id": 86,
+      "number": "٨٦",
+      "number_in_english": "86",
+      "pronunciation": "Sitta wa Thamanun"
+    },
+    {
+      "id": 87,
+      "number": "٨٧",
+      "number_in_english": "87",
+      "pronunciation": "Sab'a wa Thamanun"
+    },
+    {
+      "id": 88,
+      "number": "٨٨",
+      "number_in_english": "88",
+      "pronunciation": "Thamaniya wa Thamanun"
+    },
+    {
+      "id": 89,
+      "number": "٨٩",
+      "number_in_english": "89",
+      "pronunciation": "Tis'a wa Thamanun"
+    },
+    {
+      "id": 90,
+      "number": "٩٠",
+      "number_in_english": "90",
+      "pronunciation": "Tis'un"
+    },
+    {
+      "id": 91,
+      "number": "٩١",
+      "number_in_english": "91",
+      "pronunciation": "Wahid wa Tis'un"
+    },
+    {
+      "id": 92,
+      "number": "٩٢",
+      "number_in_english": "92",
+      "pronunciation": "Ithnayn wa Tis'un"
+    },
+    {
+      "id": 93,
+      "number": "٩٣",
+      "number_in_english": "93",
+      "pronunciation": "Thalatha wa Tis'un"
+    },
+    {
+      "id": 94,
+      "number": "٩٤",
+      "number_in_english": "94",
+      "pronunciation": "Arba'a wa Tis'un"
+    },
+    {
+      "id": 95,
+      "number": "٩٥",
+      "number_in_english": "95",
+      "pronunciation": "Khamsa wa Tis'un"
+    },
+    {
+      "id": 96,
+      "number": "٩٦",
+      "number_in_english": "96",
+      "pronunciation": "Sitta wa Tis'un"
+    },
+    {
+      "id": 97,
+      "number": "٩٧",
+      "number_in_english": "97",
+      "pronunciation": "Sab'a wa Tis'un"
+    },
+    {
+      "id": 98,
+      "number": "٩٨",
+      "number_in_english": "98",
+      "pronunciation": "Thamaniya wa Tis'un"
+    },
+    {
+      "id": 99,
+      "number": "٩٩",
+      "number_in_english": "99",
+      "pronunciation": "Tis'a wa Tis'un"
+    },
+    {
+      "id": 100,
+      "number": "١٠٠",
+      "number_in_english": "100",
+      "pronunciation": "Mi'a"
+    }
+  ]  

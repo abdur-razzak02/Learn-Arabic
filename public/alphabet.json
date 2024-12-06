@@ -1,0 +1,198 @@
+[
+    {
+      "id": 1,
+      "alphabet": "ا",
+      "pronunciation": "Alif",
+      "meaning_english": "Represents the 'A' sound",
+      "meaning_bangla": "এ, আ"
+    },
+    {
+      "id": 2,
+      "alphabet": "ب",
+      "pronunciation": "Baa",
+      "meaning_english": "Represents the 'B' sound",
+      "meaning_bangla": "ব"
+    },
+    {
+      "id": 3,
+      "alphabet": "ت",
+      "pronunciation": "Taa",
+      "meaning_english": "Represents the 'T' sound",
+      "meaning_bangla": "ত"
+    },
+    {
+      "id": 4,
+      "alphabet": "ث",
+      "pronunciation": "Thaa",
+      "meaning_english": "Represents the 'Th' sound (as in 'think')",
+      "meaning_bangla": "থ"
+    },
+    {
+      "id": 5,
+      "alphabet": "ج",
+      "pronunciation": "Jeem",
+      "meaning_english": "Represents the 'J' sound (like 'j' in 'juice')",
+      "meaning_bangla": "জ"
+    },
+    {
+      "id": 6,
+      "alphabet": "ح",
+      "pronunciation": "Haa",
+      "meaning_english": "Represents the 'H' sound (a deeper 'h' sound)",
+      "meaning_bangla": "হ"
+    },
+    {
+      "id": 7,
+      "alphabet": "خ",
+      "pronunciation": "Khaa",
+      "meaning_english": "Represents the 'Kh' sound (as in 'loch')",
+      "meaning_bangla": "খ"
+    },
+    {
+      "id": 8,
+      "alphabet": "د",
+      "pronunciation": "Daal",
+      "meaning_english": "Represents the 'D' sound",
+      "meaning_bangla": "দ"
+    },
+    {
+      "id": 9,
+      "alphabet": "ذ",
+      "pronunciation": "Dhaal",
+      "meaning_english": "Represents the 'Dh' sound (as in 'that')",
+      "meaning_bangla": "ধ"
+    },
+    {
+      "id": 10,
+      "alphabet": "ر",
+      "pronunciation": "Raa",
+      "meaning_english": "Represents the 'R' sound",
+      "meaning_bangla": "র"
+    },
+    {
+      "id": 11,
+      "alphabet": "ز",
+      "pronunciation": "Zay",
+      "meaning_english": "Represents the 'Z' sound",
+      "meaning_bangla": "জ"
+    },
+    {
+      "id": 12,
+      "alphabet": "س",
+      "pronunciation": "Seen",
+      "meaning_english": "Represents the 'S' sound",
+      "meaning_bangla": "স"
+    },
+    {
+      "id": 13,
+      "alphabet": "ش",
+      "pronunciation": "Sheen",
+      "meaning_english": "Represents the 'Sh' sound",
+      "meaning_bangla": "শ"
+    },
+    {
+      "id": 14,
+      "alphabet": "ص",
+      "pronunciation": "Saad",
+      "meaning_english": "Represents a deeper 'S' sound",
+      "meaning_bangla": "স"
+    },
+    {
+      "id": 15,
+      "alphabet": "ض",
+      "pronunciation": "Daad",
+      "meaning_english": "Represents a deep 'D' sound",
+      "meaning_bangla": "দ"
+    },
+    {
+      "id": 16,
+      "alphabet": "ط",
+      "pronunciation": "Taa",
+      "meaning_english": "Represents a deep 'T' sound",
+      "meaning_bangla": "ত"
+    },
+    {
+      "id": 17,
+      "alphabet": "ظ",
+      "pronunciation": "Zaa",
+      "meaning_english": "Represents a deep 'Z' sound",
+      "meaning_bangla": "ধ"
+    },
+    {
+      "id": 18,
+      "alphabet": "ع",
+      "pronunciation": "Ayn",
+      "meaning_english": "Represents a deep 'A' sound from the throat",
+      "meaning_bangla": "আ"
+    },
+    {
+      "id": 19,
+      "alphabet": "غ",
+      "pronunciation": "Ghayn",
+      "meaning_english": "Represents a 'G' sound (like a gargling sound)",
+      "meaning_bangla": "ঘ"
+    },
+    {
+      "id": 20,
+      "alphabet": "ف",
+      "pronunciation": "Faa",
+      "meaning_english": "Represents the 'F' sound",
+      "meaning_bangla": "ফ"
+    },
+    {
+      "id": 21,
+      "alphabet": "ق",
+      "pronunciation": "Qaaf",
+      "meaning_english": "Represents the 'Q' sound (a deeper 'K')",
+      "meaning_bangla": "ক"
+    },
+    {
+      "id": 22,
+      "alphabet": "ك",
+      "pronunciation": "Kaaf",
+      "meaning_english": "Represents the 'K' sound",
+      "meaning_bangla": "ক"
+    },
+    {
+      "id": 23,
+      "alphabet": "ل",
+      "pronunciation": "Laam",
+      "meaning_english": "Represents the 'L' sound",
+      "meaning_bangla": "ল"
+    },
+    {
+      "id": 24,
+      "alphabet": "م",
+      "pronunciation": "Meem",
+      "meaning_english": "Represents the 'M' sound",
+      "meaning_bangla": "ম"
+    },
+    {
+      "id": 25,
+      "alphabet": "ن",
+      "pronunciation": "Noon",
+      "meaning_english": "Represents the 'N' sound",
+      "meaning_bangla": "ন"
+    },
+    {
+      "id": 26,
+      "alphabet": "ه",
+      "pronunciation": "Haa",
+      "meaning_english": "Represents the 'H' sound",
+      "meaning_bangla": "হ"
+    },
+    {
+      "id": 27,
+      "alphabet": "و",
+      "pronunciation": "Waw",
+      "meaning_english": "Represents the 'W' sound",
+      "meaning_bangla": "ও"
+    },
+    {
+      "id": 28,
+      "alphabet": "ي",
+      "pronunciation": "Yaa",
+      "meaning_english": "Represents the 'Y' sound",
+      "meaning_bangla": "ই, এ"
+    }
+  ]  

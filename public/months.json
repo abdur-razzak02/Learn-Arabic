@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "month": "يناير",
+      "pronunciation": "Yanair",
+      "english_name": "January"
+    },
+    {
+      "id": 2,
+      "month": "فبراير",
+      "pronunciation": "Fibrayir",
+      "english_name": "February"
+    },
+    {
+      "id": 3,
+      "month": "مارس",
+      "pronunciation": "Mars",
+      "english_name": "March"
+    },
+    {
+      "id": 4,
+      "month": "أبريل",
+      "pronunciation": "Abril",
+      "english_name": "April"
+    },
+    {
+      "id": 5,
+      "month": "مايو",
+      "pronunciation": "Mayu",
+      "english_name": "May"
+    },
+    {
+      "id": 6,
+      "month": "يونيو",
+      "pronunciation": "Yunyu",
+      "english_name": "June"
+    },
+    {
+      "id": 7,
+      "month": "يوليو",
+      "pronunciation": "Yulyu",
+      "english_name": "July"
+    },
+    {
+      "id": 8,
+      "month": "أغسطس",
+      "pronunciation": "Aghustus",
+      "english_name": "August"
+    },
+    {
+      "id": 9,
+      "month": "سبتمبر",
+      "pronunciation": "Septambar",
+      "english_name": "September"
+    },
+    {
+      "id": 10,
+      "month": "أكتوبر",
+      "pronunciation": "Uktubar",
+      "english_name": "October"
+    },
+    {
+      "id": 11,
+      "month": "نوفمبر",
+      "pronunciation": "Nufambar",
+      "english_name": "November"
+    },
+    {
+      "id": 12,
+      "month": "ديسمبر",
+      "pronunciation": "Disambar",
+      "english_name": "December"
+    }
+  ]  

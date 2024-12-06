@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "day": "الأحد",
+      "pronunciation": "Al-Ahad",
+      "english_name": "Sunday"
+    },
+    {
+      "id": 2,
+      "day": "الإثنين",
+      "pronunciation": "Al-Ithnayn",
+      "english_name": "Monday"
+    },
+    {
+      "id": 3,
+      "day": "الثلاثاء",
+      "pronunciation": "Al-Thulatha",
+      "english_name": "Tuesday"
+    },
+    {
+      "id": 4,
+      "day": "الأربعاء",
+      "pronunciation": "Al-Arba'a",
+      "english_name": "Wednesday"
+    },
+    {
+      "id": 5,
+      "day": "الخميس",
+      "pronunciation": "Al-Khamis",
+      "english_name": "Thursday"
+    },
+    {
+      "id": 6,
+      "day": "الجمعة",
+      "pronunciation": "Al-Jum'a",
+      "english_name": "Friday"
+    },
+    {
+      "id": 7,
+      "day": "السبت",
+      "pronunciation": "Al-Sabt",
+      "english_name": "Saturday"
+    }
+  ]
+  
